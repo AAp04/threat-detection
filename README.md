@@ -84,5 +84,4 @@ Future Enhancements:
 - Real-time Dashboard: Build a web dashboard to monitor captured packets and detected threats in real time.
 - Advanced Detection: Implement machine learning algorithms for anomaly-based detection of network traffic.
 
-License:
-This project is licensed under the MIT License - see the LICENSE file for details.
+
